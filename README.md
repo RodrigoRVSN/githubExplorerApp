@@ -14,9 +14,14 @@
 
 ---
 
-https://user-images.githubusercontent.com/75763403/135737770-20cdca02-bfca-46db-8d8d-fa8a5570ced4.mp4
+<div align="center">
+  <img width=300px src="https://user-images.githubusercontent.com/75763403/135779023-fbd9227f-00eb-4692-89fb-26ed56710e24.png"/>
+  <img width=300px src="https://user-images.githubusercontent.com/75763403/135779024-2b23cf9c-5d56-48a5-b7a2-ab2c00e931a4.png"/>
+</div>
 
 ---
+
+
 
 # 🚀 How to execute
 
